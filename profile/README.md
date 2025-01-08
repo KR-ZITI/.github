@@ -33,16 +33,16 @@
 
 ### [FRONTEND](https://github.com/KR-ZITI/ZITI-Front)
 
-- React
-- Typescript
-- Axios
-- Styled-Components 
+- CSS
+- JavaScript
+- Html
+- Fetch
 
 ### [BACKEND](https://github.com/KR-ZITI/ZITI-Server)
 
-- Java 11, Spring Boot, JPA, Spring security, JWT, Query
+- Java 17, Spring Boot, JPA, Spring security, JWT, Query
 - MySQL, Redis
 - AWS EC2, RDS, S3
-- SMTP
+- WebSocket
 
 <br/>
