@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1259984926846226473/1325718335266099234/ZITI_.jpg?ex=677e2069&is=677ccee9&hm=7bc77e84cc761d2b860cb6baba4da97bae8af18c6687d6ffb01d73377d51271c" alt="Logo"> 
+  <img src="https://drive.google.com/uc?id=1omF9lA1E7xtLM2JRKA2XeL6S9ZiAA2iX" alt="Logo"> 
   <h1>ZITI</h1>
 </div>
 
